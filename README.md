@@ -30,6 +30,13 @@ End-to-end data analysis of Maven Analytics Hospital Patients dataset using Pyth
 [monthly_summary.xlsx](https://github.com/user-attachments/files/27647082/monthly_summary.xlsx)
 [procedure_fqy.csv](https://github.com/user-attachments/files/27646979/procedure_fqy.csv)
 
+### Visualizations
+
+#### 1. Number of Unique Patients Admitted per Year
+![Yearly Admissions](Number%20Of%20unique%20patients.png)
+
+#### 2. Hospital Procedure Analytical Dashboard
+![Top Procedures](HOSPITAL%20PROCEDURE%20ANALYTICAL%20DASHBOARD.png)
 
 
 
