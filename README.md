@@ -35,7 +35,7 @@ End-to-end exploratory data analysis on Maven Analytics Hospital Patients datase
 - Jupyter Notebook
 
 ### Files
-- [Jupyter Notebook](Hospital_DF_WORK.ipynb)
+- [Jupyter Notebook](https://github.com/GoldenboyFX/Pandas-Worksheet/blob/main/Hospital_DF_WORK-checkpoint.ipynb)
 - [Hospital_Project_Analysis.xlsx](https://github.com/user-attachments/files/27759672/Hospital_Project_Analysis.xlsx)
 - Images in root folder
 
