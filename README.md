@@ -28,7 +28,7 @@ End-to-end exploratory data analysis on Maven Analytics Hospital Patients datase
 ### Visualizations
 
 ![Quarterly Admissions](images/Number%20Of%20unique%20patients.png)
-![Procedure Costs](HOSPITAL%20PROCEDURE%20ANALYTICAL%20DASHBOARD.png)
+![Procedure Costs](images/procedure%20dashboard.png)
 
 ### Technologies Used
 - Python, Pandas, Matplotlib
