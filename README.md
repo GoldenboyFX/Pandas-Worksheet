@@ -16,7 +16,7 @@ End-to-end exploratory data analysis on Maven Analytics Hospital Patients datase
 
 **Cost & Insurance**
 - Average Cost per Encounter: **$3,639.68**
-- Insurance/Payer Coverage Rate: **51.28%**[Hospital_DF_WORK-checkpoint.ipynb](https://github.com/user-attachments/files/27759931/Hospital_DF_WORK-checkpoint.ipynb)
+- Insurance/Payer Coverage Rate: **51.28%**
 
 
 - **48.72%** of encounters had zero payer coverage
@@ -35,7 +35,7 @@ End-to-end exploratory data analysis on Maven Analytics Hospital Patients datase
 - Jupyter Notebook
 
 ### Files
-- `Hospital_DF_WORK.ipynb` — Main analysis notebook
+- [Jupyter Notebook](Hospital_DF_WORK.ipynb)
 - [Hospital_Project_Analysis.xlsx](https://github.com/user-attachments/files/27759672/Hospital_Project_Analysis.xlsx)
 - Images in root folder
 
