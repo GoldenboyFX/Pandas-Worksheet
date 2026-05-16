@@ -28,7 +28,7 @@ Analysis of a bank's customer dataset to understand churn patterns and identify 
 
 ## Visualizations
 
-![Churn Rate by Categories](images/churn_rate_by_categories.png)
+![Churn Rate by Categories](images/Churn_rate_by_categories.png)
 ![Age Distribution](images/Age_distribution_by_churn.png)
 ![Balance Distribution](images/Balance_distribution_by_churn.png)
 
